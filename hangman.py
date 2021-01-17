@@ -12,7 +12,7 @@ if command.lower() == "/":
     infile = open("hangman_words.txt","r")
     read = infile.read()
     infile.close()
-
+    
     if not word in infile: # puts the word into the words.txt file
         infile.close()
         opn = open("hangman_words.txt","a")
@@ -34,8 +34,6 @@ def chooseWord():
     red = infile.read()
     lst = red.split(",")
     infile.close()
-    
-
     num = random.randrange(0,len(lst))
     return lst[num]
 
