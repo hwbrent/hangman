@@ -1,4 +1,4 @@
-
+# made by Henry Brent - https://github.com/mustcat
 import random
 
 command = input("Enter 'y' to start or / to add a word, or quit() to quit | ")
