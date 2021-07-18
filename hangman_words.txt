@@ -1,1 +1,0 @@
-animal,puppy,angel,python,gecko,target,pelican,metal,mother,kitten,laptop,panda,horse
