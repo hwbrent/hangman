@@ -1,6 +1,8 @@
 # Hangman
 Made by Henry Brent
 
+Feel free to submit pull/push requests
+
 ## Use:
 - Download the code
 - `cd` into the directory
